@@ -1,0 +1,15 @@
+th{
+    background-color: #A2C841;
+    border: 1px solid #A2C841;
+    padding: 0;
+    color: white;
+}
+
+td{
+    border: 2px solid #A2C841;
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background-color: #E9F1D8;
+}

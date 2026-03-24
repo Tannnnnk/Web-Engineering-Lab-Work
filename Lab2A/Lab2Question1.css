@@ -1,0 +1,30 @@
+.background-1 {
+    background-image: url('FK4.png');
+    background-size: 100% 100%;   /* Forces image to match cell dimensions */
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.background-2 {
+    background-color: #66C2A5;
+    border: 1px solid #4DA187; /* A slightly darker shade for the border */
+}
+
+.novbar-1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+} /*for horizontal navigation bar*/
+
+.novbar-2 {
+    float: left;
+}
+
+.novbar-3 {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 0px 16px;
+    text-decoration: none;
+}
